@@ -1,0 +1,230 @@
+
+============================================================
+Random Forest
+============================================================
+Test ROC-AUC: 0.965
+
+Classification Report:               precision    recall  f1-score   support
+
+         LGG       0.89      0.96      0.93       103
+         GBM       0.79      0.56      0.65        27
+
+    accuracy                           0.88       130
+   macro avg       0.84      0.76      0.79       130
+weighted avg       0.87      0.88      0.87       130
+
+
+Confusion Matrix: [[99  4]
+ [12 15]]
+
+5-fold CV ROC-AUC: [0.91747573 0.96188421 0.94716776 0.95624546 0.93881627]
+
+Mean CV ROC-AUC: 0.9443178853706172
+
+
+============================================================
+Logistic Regression
+============================================================
+Test ROC-AUC: 0.975
+
+Classification Report:               precision    recall  f1-score   support
+
+         LGG       0.99      0.92      0.95       103
+         GBM       0.76      0.96      0.85        27
+
+    accuracy                           0.93       130
+   macro avg       0.88      0.94      0.90       130
+weighted avg       0.94      0.93      0.93       130
+
+
+Confusion Matrix: [[95  8]
+ [ 1 26]]
+
+5-fold CV ROC-AUC: [0.93671341 0.92340885 0.96586783 0.94734931 0.98257081]
+
+Mean CV ROC-AUC: 0.9511820405976126
+
+
+============================================================
+Random Forest
+============================================================
+Test ROC-AUC: 0.965
+
+Classification Report:               precision    recall  f1-score   support
+
+         LGG       0.89      0.96      0.93       103
+         GBM       0.79      0.56      0.65        27
+
+    accuracy                           0.88       130
+   macro avg       0.84      0.76      0.79       130
+weighted avg       0.87      0.88      0.87       130
+
+
+Confusion Matrix: [[99  4]
+ [12 15]]
+
+5-fold CV ROC-AUC: [0.91747573 0.96188421 0.94716776 0.95624546 0.93881627]
+
+Mean CV ROC-AUC: 0.9443178853706172
+
+
+============================================================
+Logistic Regression
+============================================================
+Test ROC-AUC: 0.975
+
+Classification Report:               precision    recall  f1-score   support
+
+         LGG       0.99      0.92      0.95       103
+         GBM       0.76      0.96      0.85        27
+
+    accuracy                           0.93       130
+   macro avg       0.88      0.94      0.90       130
+weighted avg       0.94      0.93      0.93       130
+
+
+Confusion Matrix: [[95  8]
+ [ 1 26]]
+
+5-fold CV ROC-AUC: [0.93671341 0.92340885 0.96586783 0.94734931 0.98257081]
+
+Mean CV ROC-AUC: 0.9511820405976126
+
+
+============================================================
+Random Forest
+============================================================
+Test ROC-AUC: 0.965
+
+Classification Report:               precision    recall  f1-score   support
+
+         LGG       0.89      0.96      0.93       103
+         GBM       0.79      0.56      0.65        27
+
+    accuracy                           0.88       130
+   macro avg       0.84      0.76      0.79       130
+weighted avg       0.87      0.88      0.87       130
+
+
+Confusion Matrix: [[99  4]
+ [12 15]]
+
+5-fold CV ROC-AUC: [0.91747573 0.96188421 0.94716776 0.95624546 0.93881627]
+
+Mean CV ROC-AUC: 0.9443178853706172
+
+
+============================================================
+Logistic Regression
+============================================================
+Test ROC-AUC: 0.975
+
+Classification Report:               precision    recall  f1-score   support
+
+         LGG       0.99      0.92      0.95       103
+         GBM       0.76      0.96      0.85        27
+
+    accuracy                           0.93       130
+   macro avg       0.88      0.94      0.90       130
+weighted avg       0.94      0.93      0.93       130
+
+
+Confusion Matrix: [[95  8]
+ [ 1 26]]
+
+5-fold CV ROC-AUC: [0.93671341 0.92340885 0.96586783 0.94734931 0.98257081]
+
+Mean CV ROC-AUC: 0.9511820405976126
+
+
+============================================================
+Random Forest
+============================================================
+Test ROC-AUC: 0.965
+
+Classification Report:               precision    recall  f1-score   support
+
+         LGG       0.89      0.96      0.93       103
+         GBM       0.79      0.56      0.65        27
+
+    accuracy                           0.88       130
+   macro avg       0.84      0.76      0.79       130
+weighted avg       0.87      0.88      0.87       130
+
+
+Confusion Matrix: [[99  4]
+ [12 15]]
+
+5-fold CV ROC-AUC: [0.91747573 0.96188421 0.94716776 0.95624546 0.93881627]
+
+Mean CV ROC-AUC: 0.9443178853706172
+
+
+============================================================
+Logistic Regression
+============================================================
+Test ROC-AUC: 0.975
+
+Classification Report:               precision    recall  f1-score   support
+
+         LGG       0.99      0.92      0.95       103
+         GBM       0.76      0.96      0.85        27
+
+    accuracy                           0.93       130
+   macro avg       0.88      0.94      0.90       130
+weighted avg       0.94      0.93      0.93       130
+
+
+Confusion Matrix: [[95  8]
+ [ 1 26]]
+
+5-fold CV ROC-AUC: [0.93671341 0.92340885 0.96586783 0.94734931 0.98257081]
+
+Mean CV ROC-AUC: 0.9511820405976126
+
+
+============================================================
+Random Forest
+============================================================
+Test ROC-AUC: 0.965
+
+Classification Report:               precision    recall  f1-score   support
+
+         LGG       0.89      0.96      0.93       103
+         GBM       0.79      0.56      0.65        27
+
+    accuracy                           0.88       130
+   macro avg       0.84      0.76      0.79       130
+weighted avg       0.87      0.88      0.87       130
+
+
+Confusion Matrix: [[99  4]
+ [12 15]]
+
+5-fold CV ROC-AUC: [0.91747573 0.96188421 0.94716776 0.95624546 0.93881627]
+
+Mean CV ROC-AUC: 0.9443178853706172
+
+
+============================================================
+Logistic Regression
+============================================================
+Test ROC-AUC: 0.975
+
+Classification Report:               precision    recall  f1-score   support
+
+         LGG       0.99      0.92      0.95       103
+         GBM       0.76      0.96      0.85        27
+
+    accuracy                           0.93       130
+   macro avg       0.88      0.94      0.90       130
+weighted avg       0.94      0.93      0.93       130
+
+
+Confusion Matrix: [[95  8]
+ [ 1 26]]
+
+5-fold CV ROC-AUC: [0.93671341 0.92340885 0.96586783 0.94734931 0.98257081]
+
+Mean CV ROC-AUC: 0.9511820405976126
+

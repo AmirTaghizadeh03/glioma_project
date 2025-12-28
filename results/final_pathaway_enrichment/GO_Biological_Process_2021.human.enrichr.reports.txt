@@ -1,0 +1,333 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	negative regulation of cell cycle G1/S phase transition (GO:1902807)	2/35	4.442907e-05	8.253100e-03	0	0	3.024394e+02	3.030932e+03	RB1;PTEN
+GO_Biological_Process_2021	negative regulation of G1/S transition of mitotic cell cycle (GO:2000134)	2/37	4.971747e-05	8.253100e-03	0	0	2.851286e+02	2.825383e+03	RB1;PTEN
+GO_Biological_Process_2021	regulation of DNA-templated transcription, initiation (GO:2000142)	2/61	1.361753e-04	1.112435e-02	0	0	1.689407e+02	1.503837e+03	PTEN;TP53
+GO_Biological_Process_2021	regulation of transcription initiation from RNA polymerase II promoter (GO:0060260)	2/64	1.499561e-04	1.112435e-02	0	0	1.607419e+02	1.415360e+03	PTEN;TP53
+GO_Biological_Process_2021	regulation of G1/S transition of mitotic cell cycle (GO:2000045)	2/71	1.846694e-04	1.112435e-02	0	0	1.443841e+02	1.241262e+03	RB1;PTEN
+GO_Biological_Process_2021	negative regulation of protein serine/threonine kinase activity (GO:0071901)	2/78	2.229557e-04	1.112435e-02	0	0	1.310395e+02	1.101850e+03	RB1;PTEN
+GO_Biological_Process_2021	negative regulation of cell cycle (GO:0045786)	2/80	2.345494e-04	1.112435e-02	0	0	1.276667e+02	1.067018e+03	RB1;PTEN
+GO_Biological_Process_2021	negative regulation of mitotic cell cycle phase transition (GO:1901991)	2/92	3.102068e-04	1.287358e-02	0	0	1.105778e+02	8.932773e+02	RB1;PTEN
+GO_Biological_Process_2021	small GTPase mediated signal transduction (GO:0007264)	2/106	4.116288e-04	1.404455e-02	0	0	9.562500e+01	7.454340e+02	RB1;TP53
+GO_Biological_Process_2021	negative regulation of cellular process (GO:0048523)	3/566	4.230286e-04	1.404455e-02	0	0	3.451332e+01	2.681019e+02	RB1;PTEN;TP53
+GO_Biological_Process_2021	negative regulation of response to external stimulus (GO:0032102)	2/118	5.097797e-04	1.483631e-02	0	0	8.568103e+01	6.495935e+02	RB1;PTEN
+GO_Biological_Process_2021	negative regulation of cell growth (GO:0030308)	2/126	5.809398e-04	1.483631e-02	0	0	8.012097e+01	5.969704e+02	RB1;TP53
+GO_Biological_Process_2021	negative regulation of growth (GO:0045926)	2/126	5.809398e-04	1.483631e-02	0	0	8.012097e+01	5.969704e+02	RB1;TP53
+GO_Biological_Process_2021	Ras protein signal transduction (GO:0007265)	2/142	7.369356e-04	1.591386e-02	0	0	7.090714e+01	5.114539e+02	RB1;TP53
+GO_Biological_Process_2021	negative regulation of protein phosphorylation (GO:0001933)	2/152	8.436496e-04	1.591386e-02	0	0	6.614667e+01	4.681711e+02	RB1;PTEN
+GO_Biological_Process_2021	neuron projection development (GO:0031175)	2/171	1.065818e-03	1.591386e-02	0	0	5.865385e+01	4.014276e+02	RB1;PTEN
+GO_Biological_Process_2021	negative regulation of cell differentiation (GO:0045596)	2/191	1.326976e-03	1.591386e-02	0	0	5.239418e+01	3.471037e+02	RB1;PTEN
+GO_Biological_Process_2021	bone marrow development (GO:0048539)	1/5	1.499220e-03	1.591386e-02	0	0	9.995000e+02	6.499559e+03	TP53
+GO_Biological_Process_2021	negative regulation of organ growth (GO:0046621)	1/5	1.499220e-03	1.591386e-02	0	0	9.995000e+02	6.499559e+03	PTEN
+GO_Biological_Process_2021	cellular response to antibiotic (GO:0071236)	1/5	1.499220e-03	1.591386e-02	0	0	9.995000e+02	6.499559e+03	TP53
+GO_Biological_Process_2021	negative regulation of multicellular organismal process (GO:0051241)	2/214	1.661623e-03	1.591386e-02	0	0	4.665566e+01	2.985944e+02	RB1;PTEN
+GO_Biological_Process_2021	regulation of cell growth (GO:0001558)	2/217	1.707962e-03	1.591386e-02	0	0	4.599767e+01	2.931181e+02	RB1;TP53
+GO_Biological_Process_2021	negative regulation of cell size (GO:0045792)	1/6	1.798841e-03	1.591386e-02	0	0	7.995600e+02	5.053709e+03	PTEN
+GO_Biological_Process_2021	regulation of thymocyte apoptotic process (GO:0070243)	1/6	1.798841e-03	1.591386e-02	0	0	7.995600e+02	5.053709e+03	TP53
+GO_Biological_Process_2021	negative regulation of excitatory postsynaptic potential (GO:0090394)	1/6	1.798841e-03	1.591386e-02	0	0	7.995600e+02	5.053709e+03	PTEN
+GO_Biological_Process_2021	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors (GO:1902043)	1/6	1.798841e-03	1.591386e-02	0	0	7.995600e+02	5.053709e+03	PTEN
+GO_Biological_Process_2021	postsynaptic density assembly (GO:0097107)	1/6	1.798841e-03	1.591386e-02	0	0	7.995600e+02	5.053709e+03	PTEN
+GO_Biological_Process_2021	prepulse inhibition (GO:0060134)	1/6	1.798841e-03	1.591386e-02	0	0	7.995600e+02	5.053709e+03	PTEN
+GO_Biological_Process_2021	regulation of collagen fibril organization (GO:1904026)	1/6	1.798841e-03	1.591386e-02	0	0	7.995600e+02	5.053709e+03	RB1
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	4/2206	1.842455e-03	1.591386e-02	0	0	1.615985e+01	1.017531e+02	RB1;PTEN;LBX1;TP53
+GO_Biological_Process_2021	negative regulation of cell cycle phase transition (GO:1901988)	1/7	2.098387e-03	1.591386e-02	0	0	6.662667e+02	4.108591e+03	PTEN
+GO_Biological_Process_2021	negative regulation of dendritic spine development (GO:0061000)	1/7	2.098387e-03	1.591386e-02	0	0	6.662667e+02	4.108591e+03	PTEN
+GO_Biological_Process_2021	positive regulation of RNA polymerase II transcription preinitiation complex assembly (GO:0045899)	1/7	2.098387e-03	1.591386e-02	0	0	6.662667e+02	4.108591e+03	TP53
+GO_Biological_Process_2021	ER overload response (GO:0006983)	1/8	2.397859e-03	1.591386e-02	0	0	5.710571e+02	3.445290e+03	TP53
+GO_Biological_Process_2021	excitatory synapse assembly (GO:1904861)	1/8	2.397859e-03	1.591386e-02	0	0	5.710571e+02	3.445290e+03	PTEN
+GO_Biological_Process_2021	stress-induced premature senescence (GO:0090400)	1/8	2.397859e-03	1.591386e-02	0	0	5.710571e+02	3.445290e+03	TP53
+GO_Biological_Process_2021	regulation of wound healing, spreading of epidermal cells (GO:1903689)	1/8	2.397859e-03	1.591386e-02	0	0	5.710571e+02	3.445290e+03	PTEN
+GO_Biological_Process_2021	positive regulation of execution phase of apoptosis (GO:1900119)	1/8	2.397859e-03	1.591386e-02	0	0	5.710571e+02	3.445290e+03	TP53
+GO_Biological_Process_2021	postsynaptic density organization (GO:0097106)	1/8	2.397859e-03	1.591386e-02	0	0	5.710571e+02	3.445290e+03	PTEN
+GO_Biological_Process_2021	regulation of protein localization to chromatin (GO:1905634)	1/8	2.397859e-03	1.591386e-02	0	0	5.710571e+02	3.445290e+03	RB1
+GO_Biological_Process_2021	negative regulation of signal transduction (GO:0009968)	2/267	2.570683e-03	1.591386e-02	0	0	3.722453e+01	2.219916e+02	RB1;PTEN
+GO_Biological_Process_2021	protein deubiquitination (GO:0016579)	2/267	2.570683e-03	1.591386e-02	0	0	3.722453e+01	2.219916e+02	PTEN;TP53
+GO_Biological_Process_2021	regulation of helicase activity (GO:0051095)	1/9	2.697256e-03	1.591386e-02	0	0	4.996500e+02	2.955690e+03	TP53
+GO_Biological_Process_2021	protein modification by small protein removal (GO:0070646)	2/276	2.743932e-03	1.591386e-02	0	0	3.598540e+01	2.122550e+02	PTEN;TP53
+GO_Biological_Process_2021	regulation of RNA polymerase II transcription preinitiation complex assembly (GO:0045898)	1/10	2.996578e-03	1.591386e-02	0	0	4.441111e+02	2.580412e+03	TP53
+GO_Biological_Process_2021	negative regulation of telomerase activity (GO:0051974)	1/10	2.996578e-03	1.591386e-02	0	0	4.441111e+02	2.580412e+03	TP53
+GO_Biological_Process_2021	regulation of tau-protein kinase activity (GO:1902947)	1/10	2.996578e-03	1.591386e-02	0	0	4.441111e+02	2.580412e+03	RB1
+GO_Biological_Process_2021	positive regulation of T cell apoptotic process (GO:0070234)	1/10	2.996578e-03	1.591386e-02	0	0	4.441111e+02	2.580412e+03	TP53
+GO_Biological_Process_2021	hematopoietic stem cell differentiation (GO:0060218)	1/10	2.996578e-03	1.591386e-02	0	0	4.441111e+02	2.580412e+03	TP53
+GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator (GO:0006978)	1/10	2.996578e-03	1.591386e-02	0	0	4.441111e+02	2.580412e+03	TP53
+GO_Biological_Process_2021	presynaptic membrane assembly (GO:0097105)	1/10	2.996578e-03	1.591386e-02	0	0	4.441111e+02	2.580412e+03	PTEN
+GO_Biological_Process_2021	regulation of organ growth (GO:0046620)	1/10	2.996578e-03	1.591386e-02	0	0	4.441111e+02	2.580412e+03	PTEN
+GO_Biological_Process_2021	negative regulation of phosphatidylinositol 3-kinase signaling (GO:0014067)	1/10	2.996578e-03	1.591386e-02	0	0	4.441111e+02	2.580412e+03	PTEN
+GO_Biological_Process_2021	myelin maintenance (GO:0043217)	1/10	2.996578e-03	1.591386e-02	0	0	4.441111e+02	2.580412e+03	PTEN
+GO_Biological_Process_2021	regulation of cell cycle (GO:0051726)	2/296	3.148332e-03	1.591386e-02	0	0	3.350340e+01	1.930092e+02	RB1;TP53
+GO_Biological_Process_2021	positive regulation of production of miRNAs involved in gene silencing by miRNA (GO:1903800)	1/11	3.295826e-03	1.591386e-02	0	0	3.996800e+02	2.284211e+03	TP53
+GO_Biological_Process_2021	central nervous system myelination (GO:0022010)	1/11	3.295826e-03	1.591386e-02	0	0	3.996800e+02	2.284211e+03	PTEN
+GO_Biological_Process_2021	regulation of lipid kinase activity (GO:0043550)	1/11	3.295826e-03	1.591386e-02	0	0	3.996800e+02	2.284211e+03	RB1
+GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress (GO:1990440)	1/11	3.295826e-03	1.591386e-02	0	0	3.996800e+02	2.284211e+03	TP53
+GO_Biological_Process_2021	DNA damage response, signal transduction resulting in transcription (GO:0042772)	1/11	3.295826e-03	1.591386e-02	0	0	3.996800e+02	2.284211e+03	TP53
+GO_Biological_Process_2021	presynaptic membrane organization (GO:0097090)	1/11	3.295826e-03	1.591386e-02	0	0	3.996800e+02	2.284211e+03	PTEN
+GO_Biological_Process_2021	phosphorylated carbohydrate dephosphorylation (GO:0046838)	1/11	3.295826e-03	1.591386e-02	0	0	3.996800e+02	2.284211e+03	PTEN
+GO_Biological_Process_2021	inositol phosphate dephosphorylation (GO:0046855)	1/11	3.295826e-03	1.591386e-02	0	0	3.996800e+02	2.284211e+03	PTEN
+GO_Biological_Process_2021	regulation of sister chromatid cohesion (GO:0007063)	1/12	3.594998e-03	1.591386e-02	0	0	3.633273e+02	2.044883e+03	RB1
+GO_Biological_Process_2021	chromatin assembly or disassembly (GO:0006333)	1/12	3.594998e-03	1.591386e-02	0	0	3.633273e+02	2.044883e+03	TP53
+GO_Biological_Process_2021	regulation of keratinocyte migration (GO:0051547)	1/12	3.594998e-03	1.591386e-02	0	0	3.633273e+02	2.044883e+03	PTEN
+GO_Biological_Process_2021	replicative senescence (GO:0090399)	1/12	3.594998e-03	1.591386e-02	0	0	3.633273e+02	2.044883e+03	TP53
+GO_Biological_Process_2021	brain morphogenesis (GO:0048854)	1/12	3.594998e-03	1.591386e-02	0	0	3.633273e+02	2.044883e+03	PTEN
+GO_Biological_Process_2021	positive regulation of ubiquitin protein ligase activity (GO:1904668)	1/12	3.594998e-03	1.591386e-02	0	0	3.633273e+02	2.044883e+03	PTEN
+GO_Biological_Process_2021	mitotic G1/S transition checkpoint signaling (GO:0044819)	1/12	3.594998e-03	1.591386e-02	0	0	3.633273e+02	2.044883e+03	TP53
+GO_Biological_Process_2021	mRNA transcription (GO:0009299)	1/12	3.594998e-03	1.591386e-02	0	0	3.633273e+02	2.044883e+03	TP53
+GO_Biological_Process_2021	inositol phosphate catabolic process (GO:0071545)	1/12	3.594998e-03	1.591386e-02	0	0	3.633273e+02	2.044883e+03	PTEN
+GO_Biological_Process_2021	positive regulation of metaphase/anaphase transition of cell cycle (GO:1902101)	1/12	3.594998e-03	1.591386e-02	0	0	3.633273e+02	2.044883e+03	RB1
+GO_Biological_Process_2021	positive regulation of mitotic metaphase/anaphase transition (GO:0045842)	1/12	3.594998e-03	1.591386e-02	0	0	3.633273e+02	2.044883e+03	RB1
+GO_Biological_Process_2021	positive regulation of mitotic sister chromatid separation (GO:1901970)	1/12	3.594998e-03	1.591386e-02	0	0	3.633273e+02	2.044883e+03	RB1
+GO_Biological_Process_2021	central nervous system neuron axonogenesis (GO:0021955)	1/13	3.894096e-03	1.701105e-02	0	0	3.330333e+02	1.847767e+03	PTEN
+GO_Biological_Process_2021	regulation of extracellular matrix organization (GO:1903053)	1/15	4.492068e-03	1.864208e-02	0	0	2.854286e+02	1.542868e+03	RB1
+GO_Biological_Process_2021	positive regulation of protein export from nucleus (GO:0046827)	1/15	4.492068e-03	1.864208e-02	0	0	2.854286e+02	1.542868e+03	TP53
+GO_Biological_Process_2021	central nervous system neuron development (GO:0021954)	1/15	4.492068e-03	1.864208e-02	0	0	2.854286e+02	1.542868e+03	PTEN
+GO_Biological_Process_2021	myoblast differentiation (GO:0045445)	1/15	4.492068e-03	1.864208e-02	0	0	2.854286e+02	1.542868e+03	RB1
+GO_Biological_Process_2021	negative regulation of cell-substrate junction organization (GO:0150118)	1/16	4.790942e-03	1.893563e-02	0	0	2.663867e+02	1.422779e+03	PTEN
+GO_Biological_Process_2021	negative regulation of focal adhesion assembly (GO:0051895)	1/16	4.790942e-03	1.893563e-02	0	0	2.663867e+02	1.422779e+03	PTEN
+GO_Biological_Process_2021	dendritic spine morphogenesis (GO:0060997)	1/16	4.790942e-03	1.893563e-02	0	0	2.663867e+02	1.422779e+03	PTEN
+GO_Biological_Process_2021	mitotic sister chromatid cohesion (GO:0007064)	1/16	4.790942e-03	1.893563e-02	0	0	2.663867e+02	1.422779e+03	RB1
+GO_Biological_Process_2021	cellular response to gamma radiation (GO:0071480)	1/17	5.089741e-03	1.903160e-02	0	0	2.497250e+02	1.318680e+03	TP53
+GO_Biological_Process_2021	negative regulation of ATPase activity (GO:0032780)	1/17	5.089741e-03	1.903160e-02	0	0	2.497250e+02	1.318680e+03	TP53
+GO_Biological_Process_2021	negative regulation of vascular associated smooth muscle cell proliferation (GO:1904706)	1/17	5.089741e-03	1.903160e-02	0	0	2.497250e+02	1.318680e+03	PTEN
+GO_Biological_Process_2021	protein localization to chromosome, centromeric region (GO:0071459)	1/17	5.089741e-03	1.903160e-02	0	0	2.497250e+02	1.318680e+03	RB1
+GO_Biological_Process_2021	negative regulation of cell population proliferation (GO:0008285)	2/379	5.108089e-03	1.903160e-02	0	0	2.601724e+01	1.372912e+02	PTEN;TP53
+GO_Biological_Process_2021	negative regulation of fibroblast proliferation (GO:0048147)	1/18	5.388466e-03	1.903160e-02	0	0	2.350235e+02	1.227644e+03	TP53
+GO_Biological_Process_2021	positive regulation of excitatory postsynaptic potential (GO:2000463)	1/18	5.388466e-03	1.903160e-02	0	0	2.350235e+02	1.227644e+03	PTEN
+GO_Biological_Process_2021	positive regulation of extracellular matrix organization (GO:1903055)	1/18	5.388466e-03	1.903160e-02	0	0	2.350235e+02	1.227644e+03	RB1
+GO_Biological_Process_2021	presynapse assembly (GO:0099054)	1/18	5.388466e-03	1.903160e-02	0	0	2.350235e+02	1.227644e+03	PTEN
+GO_Biological_Process_2021	regulation of production of miRNAs involved in gene silencing by miRNA (GO:1903798)	1/18	5.388466e-03	1.903160e-02	0	0	2.350235e+02	1.227644e+03	TP53
+GO_Biological_Process_2021	negative regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0045736)	1/20	5.985691e-03	2.043657e-02	0	0	2.102632e+02	1.076207e+03	PTEN
+GO_Biological_Process_2021	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator (GO:0042771)	1/21	6.284191e-03	2.043657e-02	0	0	1.997400e+02	1.012625e+03	TP53
+GO_Biological_Process_2021	regulation of ubiquitin protein ligase activity (GO:1904666)	1/21	6.284191e-03	2.043657e-02	0	0	1.997400e+02	1.012625e+03	PTEN
+GO_Biological_Process_2021	positive regulation of transcription regulatory region DNA binding (GO:2000679)	1/21	6.284191e-03	2.043657e-02	0	0	1.997400e+02	1.012625e+03	RB1
+GO_Biological_Process_2021	negative regulation of peptidyl-serine phosphorylation (GO:0033137)	1/21	6.284191e-03	2.043657e-02	0	0	1.997400e+02	1.012625e+03	PTEN
+GO_Biological_Process_2021	regulation of nucleic acid-templated transcription (GO:1903506)	2/430	6.532439e-03	2.043657e-02	0	0	2.285748e+01	1.149954e+02	RB1;TP53
+GO_Biological_Process_2021	negative regulation of cyclin-dependent protein kinase activity (GO:1904030)	1/22	6.582617e-03	2.043657e-02	0	0	1.902190e+02	9.555317e+02	PTEN
+GO_Biological_Process_2021	regulation of chromosome organization (GO:0033044)	1/22	6.582617e-03	2.043657e-02	0	0	1.902190e+02	9.555317e+02	RB1
+GO_Biological_Process_2021	negative regulation of phosphate metabolic process (GO:0045936)	1/22	6.582617e-03	2.043657e-02	0	0	1.902190e+02	9.555317e+02	TP53
+GO_Biological_Process_2021	regulation of execution phase of apoptosis (GO:1900117)	1/22	6.582617e-03	2.043657e-02	0	0	1.902190e+02	9.555317e+02	TP53
+GO_Biological_Process_2021	regulation of intracellular signal transduction (GO:1902531)	2/437	6.740755e-03	2.043657e-02	0	0	2.248161e+01	1.123987e+02	PTEN;TP53
+GO_Biological_Process_2021	positive regulation of transcription initiation from RNA polymerase II promoter (GO:0060261)	1/23	6.880968e-03	2.043657e-02	0	0	1.815636e+02	9.040046e+02	TP53
+GO_Biological_Process_2021	regulation of protein export from nucleus (GO:0046825)	1/23	6.880968e-03	2.043657e-02	0	0	1.815636e+02	9.040046e+02	TP53
+GO_Biological_Process_2021	negative regulation of synaptic transmission (GO:0050805)	1/24	7.179245e-03	2.043657e-02	0	0	1.736609e+02	8.572875e+02	PTEN
+GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter in response to stress (GO:0036003)	1/24	7.179245e-03	2.043657e-02	0	0	1.736609e+02	8.572875e+02	TP53
+GO_Biological_Process_2021	regulation of cell size (GO:0008361)	1/24	7.179245e-03	2.043657e-02	0	0	1.736609e+02	8.572875e+02	PTEN
+GO_Biological_Process_2021	response to gamma radiation (GO:0010332)	1/24	7.179245e-03	2.043657e-02	0	0	1.736609e+02	8.572875e+02	TP53
+GO_Biological_Process_2021	DNA packaging (GO:0006323)	1/24	7.179245e-03	2.043657e-02	0	0	1.736609e+02	8.572875e+02	TP53
+GO_Biological_Process_2021	protein kinase B signaling (GO:0043491)	1/24	7.179245e-03	2.043657e-02	0	0	1.736609e+02	8.572875e+02	PTEN
+GO_Biological_Process_2021	negative regulation of cell junction assembly (GO:1901889)	1/25	7.477447e-03	2.043657e-02	0	0	1.664167e+02	8.147533e+02	PTEN
+GO_Biological_Process_2021	positive regulation of release of cytochrome c from mitochondria (GO:0090200)	1/25	7.477447e-03	2.043657e-02	0	0	1.664167e+02	8.147533e+02	TP53
+GO_Biological_Process_2021	phosphatidylinositol dephosphorylation (GO:0046856)	1/25	7.477447e-03	2.043657e-02	0	0	1.664167e+02	8.147533e+02	PTEN
+GO_Biological_Process_2021	negative regulation of nucleic acid-templated transcription (GO:1903507)	2/464	7.572889e-03	2.043657e-02	0	0	2.113853e+01	1.032233e+02	RB1;TP53
+GO_Biological_Process_2021	regulation of cellular macromolecule biosynthetic process (GO:2000112)	2/468	7.700014e-03	2.043657e-02	0	0	2.095279e+01	1.019674e+02	RB1;TP53
+GO_Biological_Process_2021	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway (GO:1900740)	1/26	7.775574e-03	2.043657e-02	0	0	1.597520e+02	7.758784e+02	TP53
+GO_Biological_Process_2021	regulation of mitotic metaphase/anaphase transition (GO:0030071)	1/26	7.775574e-03	2.043657e-02	0	0	1.597520e+02	7.758784e+02	RB1
+GO_Biological_Process_2021	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway (GO:1900739)	1/26	7.775574e-03	2.043657e-02	0	0	1.597520e+02	7.758784e+02	TP53
+GO_Biological_Process_2021	cellular response to drug (GO:0035690)	1/26	7.775574e-03	2.043657e-02	0	0	1.597520e+02	7.758784e+02	TP53
+GO_Biological_Process_2021	negative regulation of catalytic activity (GO:0043086)	1/27	8.073627e-03	2.043657e-02	0	0	1.536000e+02	7.402218e+02	TP53
+GO_Biological_Process_2021	regulation of transcription regulatory region DNA binding (GO:2000677)	1/27	8.073627e-03	2.043657e-02	0	0	1.536000e+02	7.402218e+02	RB1
+GO_Biological_Process_2021	dendritic spine organization (GO:0097061)	1/27	8.073627e-03	2.043657e-02	0	0	1.536000e+02	7.402218e+02	PTEN
+GO_Biological_Process_2021	positive regulation of gene silencing by miRNA (GO:2000637)	1/27	8.073627e-03	2.043657e-02	0	0	1.536000e+02	7.402218e+02	TP53
+GO_Biological_Process_2021	mitotic chromosome condensation (GO:0007076)	1/27	8.073627e-03	2.043657e-02	0	0	1.536000e+02	7.402218e+02	RB1
+GO_Biological_Process_2021	modulation of excitatory postsynaptic potential (GO:0098815)	1/27	8.073627e-03	2.043657e-02	0	0	1.536000e+02	7.402218e+02	PTEN
+GO_Biological_Process_2021	entrainment of circadian clock by photoperiod (GO:0043153)	1/27	8.073627e-03	2.043657e-02	0	0	1.536000e+02	7.402218e+02	TP53
+GO_Biological_Process_2021	neutrophil degranulation (GO:0043312)	2/481	8.119979e-03	2.043657e-02	0	0	2.037056e+01	9.805223e+01	CEACAM8;RETN
+GO_Biological_Process_2021	negative regulation of apoptotic process (GO:0043066)	2/485	8.251289e-03	2.043657e-02	0	0	2.019772e+01	9.689627e+01	RB1;TP53
+GO_Biological_Process_2021	neutrophil activation involved in immune response (GO:0002283)	2/485	8.251289e-03	2.043657e-02	0	0	2.019772e+01	9.689627e+01	CEACAM8;RETN
+GO_Biological_Process_2021	neutrophil mediated immunity (GO:0002446)	2/488	8.350414e-03	2.043657e-02	0	0	2.006996e+01	9.604367e+01	CEACAM8;RETN
+GO_Biological_Process_2021	negative regulation of axonogenesis (GO:0050771)	1/28	8.371605e-03	2.043657e-02	0	0	1.479037e+02	7.074101e+02	PTEN
+GO_Biological_Process_2021	regulation of plasma membrane bounded cell projection organization (GO:0120035)	1/28	8.371605e-03	2.043657e-02	0	0	1.479037e+02	7.074101e+02	PTEN
+GO_Biological_Process_2021	photoperiodism (GO:0009648)	1/28	8.371605e-03	2.043657e-02	0	0	1.479037e+02	7.074101e+02	TP53
+GO_Biological_Process_2021	negative regulation of transferase activity (GO:0051348)	1/29	8.669509e-03	2.070703e-02	0	0	1.426143e+02	6.771245e+02	TP53
+GO_Biological_Process_2021	negative regulation of wound healing (GO:0061045)	1/29	8.669509e-03	2.070703e-02	0	0	1.426143e+02	6.771245e+02	PTEN
+GO_Biological_Process_2021	negative regulation of epithelial to mesenchymal transition (GO:0010719)	1/29	8.669509e-03	2.070703e-02	0	0	1.426143e+02	6.771245e+02	PTEN
+GO_Biological_Process_2021	positive regulation of proteolysis involved in cellular protein catabolic process (GO:1903052)	1/31	9.265092e-03	2.130765e-02	0	0	1.330933e+02	6.230766e+02	PTEN
+GO_Biological_Process_2021	positive regulation of ubiquitin-protein transferase activity (GO:0051443)	1/31	9.265092e-03	2.130765e-02	0	0	1.330933e+02	6.230766e+02	PTEN
+GO_Biological_Process_2021	regulation of cellular component size (GO:0032535)	1/31	9.265092e-03	2.130765e-02	0	0	1.330933e+02	6.230766e+02	PTEN
+GO_Biological_Process_2021	negative regulation of cell-matrix adhesion (GO:0001953)	1/32	9.562772e-03	2.130765e-02	0	0	1.287935e+02	5.988742e+02	PTEN
+GO_Biological_Process_2021	negative regulation of developmental growth (GO:0048640)	1/32	9.562772e-03	2.130765e-02	0	0	1.287935e+02	5.988742e+02	PTEN
+GO_Biological_Process_2021	negative regulation of DNA biosynthetic process (GO:2000279)	1/32	9.562772e-03	2.130765e-02	0	0	1.287935e+02	5.988742e+02	TP53
+GO_Biological_Process_2021	aortic valve morphogenesis (GO:0003180)	1/32	9.562772e-03	2.130765e-02	0	0	1.287935e+02	5.988742e+02	RB1
+GO_Biological_Process_2021	regulation of transcription involved in G1/S transition of mitotic cell cycle (GO:0000083)	1/32	9.562772e-03	2.130765e-02	0	0	1.287935e+02	5.988742e+02	RB1
+GO_Biological_Process_2021	hematopoietic progenitor cell differentiation (GO:0002244)	1/32	9.562772e-03	2.130765e-02	0	0	1.287935e+02	5.988742e+02	TP53
+GO_Biological_Process_2021	regulation of dendritic spine morphogenesis (GO:0061001)	1/32	9.562772e-03	2.130765e-02	0	0	1.287935e+02	5.988742e+02	PTEN
+GO_Biological_Process_2021	signal transduction by p53 class mediator (GO:0072331)	1/33	9.860378e-03	2.148042e-02	0	0	1.247625e+02	5.763068e+02	TP53
+GO_Biological_Process_2021	negative regulation of smooth muscle cell proliferation (GO:0048662)	1/33	9.860378e-03	2.148042e-02	0	0	1.247625e+02	5.763068e+02	PTEN
+GO_Biological_Process_2021	sister chromatid segregation (GO:0000819)	1/34	1.015791e-02	2.148042e-02	0	0	1.209758e+02	5.552186e+02	RB1
+GO_Biological_Process_2021	positive regulation of pri-miRNA transcription by RNA polymerase II (GO:1902895)	1/34	1.015791e-02	2.148042e-02	0	0	1.209758e+02	5.552186e+02	TP53
+GO_Biological_Process_2021	positive regulation of DNA binding (GO:0043388)	1/34	1.015791e-02	2.148042e-02	0	0	1.209758e+02	5.552186e+02	RB1
+GO_Biological_Process_2021	phosphatidylinositol 3-kinase signaling (GO:0014065)	1/34	1.015791e-02	2.148042e-02	0	0	1.209758e+02	5.552186e+02	PTEN
+GO_Biological_Process_2021	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway (GO:1901030)	1/34	1.015791e-02	2.148042e-02	0	0	1.209758e+02	5.552186e+02	TP53
+GO_Biological_Process_2021	protein localization to chromosome (GO:0034502)	1/34	1.015791e-02	2.148042e-02	0	0	1.209758e+02	5.552186e+02	RB1
+GO_Biological_Process_2021	negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	2/547	1.041085e-02	2.150549e-02	0	0	1.784312e+01	8.145218e+01	RB1;TP53
+GO_Biological_Process_2021	negative regulation of epithelial cell migration (GO:0010633)	1/35	1.045537e-02	2.150549e-02	0	0	1.174118e+02	5.354728e+02	PTEN
+GO_Biological_Process_2021	negative regulation of neurogenesis (GO:0050768)	1/35	1.045537e-02	2.150549e-02	0	0	1.174118e+02	5.354728e+02	PTEN
+GO_Biological_Process_2021	intrinsic apoptotic signaling pathway by p53 class mediator (GO:0072332)	1/36	1.075275e-02	2.150549e-02	0	0	1.140514e+02	5.169488e+02	TP53
+GO_Biological_Process_2021	aortic valve development (GO:0003176)	1/36	1.075275e-02	2.150549e-02	0	0	1.140514e+02	5.169488e+02	RB1
+GO_Biological_Process_2021	membrane assembly (GO:0071709)	1/36	1.075275e-02	2.150549e-02	0	0	1.140514e+02	5.169488e+02	PTEN
+GO_Biological_Process_2021	dendrite morphogenesis (GO:0048813)	1/36	1.075275e-02	2.150549e-02	0	0	1.140514e+02	5.169488e+02	PTEN
+GO_Biological_Process_2021	regulation of cell cycle G1/S phase transition (GO:1902806)	1/36	1.075275e-02	2.150549e-02	0	0	1.140514e+02	5.169488e+02	PTEN
+GO_Biological_Process_2021	positive regulation of mitotic nuclear division (GO:0045840)	1/36	1.075275e-02	2.150549e-02	0	0	1.140514e+02	5.169488e+02	RB1
+GO_Biological_Process_2021	regulation of vascular associated smooth muscle cell proliferation (GO:1904705)	1/37	1.105005e-02	2.196777e-02	0	0	1.108778e+02	4.995399e+02	PTEN
+GO_Biological_Process_2021	regulation of apoptotic signaling pathway (GO:2001233)	1/38	1.134729e-02	2.242440e-02	0	0	1.078757e+02	4.831510e+02	RB1
+GO_Biological_Process_2021	phospholipid dephosphorylation (GO:0046839)	1/39	1.164445e-02	2.287548e-02	0	0	1.050316e+02	4.676978e+02	PTEN
+GO_Biological_Process_2021	stem cell differentiation (GO:0048863)	1/40	1.194153e-02	2.291670e-02	0	0	1.023333e+02	4.531047e+02	TP53
+GO_Biological_Process_2021	bone development (GO:0060348)	1/40	1.194153e-02	2.291670e-02	0	0	1.023333e+02	4.531047e+02	TP53
+GO_Biological_Process_2021	positive regulation of intrinsic apoptotic signaling pathway (GO:2001244)	1/40	1.194153e-02	2.291670e-02	0	0	1.023333e+02	4.531047e+02	TP53
+GO_Biological_Process_2021	negative regulation of protein kinase B signaling (GO:0051898)	1/40	1.194153e-02	2.291670e-02	0	0	1.023333e+02	4.531047e+02	PTEN
+GO_Biological_Process_2021	regulation of release of cytochrome c from mitochondria (GO:0090199)	1/41	1.223854e-02	2.335170e-02	0	0	9.977000e+01	4.393038e+02	TP53
+GO_Biological_Process_2021	regulation of ubiquitin-dependent protein catabolic process (GO:2000058)	1/42	1.253548e-02	2.364647e-02	0	0	9.733171e+01	4.262343e+02	PTEN
+GO_Biological_Process_2021	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules (GO:0007157)	1/42	1.253548e-02	2.364647e-02	0	0	9.733171e+01	4.262343e+02	CEACAM8
+GO_Biological_Process_2021	cellular response to glucose starvation (GO:0042149)	1/43	1.283234e-02	2.406970e-02	0	0	9.500952e+01	4.138412e+02	TP53
+GO_Biological_Process_2021	cellular response to radiation (GO:0071478)	1/45	1.342584e-02	2.462640e-02	0	0	9.068182e+01	3.908907e+02	TP53
+GO_Biological_Process_2021	chromosome condensation (GO:0030261)	1/45	1.342584e-02	2.462640e-02	0	0	9.068182e+01	3.908907e+02	RB1
+GO_Biological_Process_2021	positive regulation of RNA metabolic process (GO:0051254)	1/45	1.342584e-02	2.462640e-02	0	0	9.068182e+01	3.908907e+02	TP53
+GO_Biological_Process_2021	regulation of pri-miRNA transcription by RNA polymerase II (GO:1902893)	1/45	1.342584e-02	2.462640e-02	0	0	9.068182e+01	3.908907e+02	TP53
+GO_Biological_Process_2021	regulation of fibroblast proliferation (GO:0048145)	1/46	1.372248e-02	2.476012e-02	0	0	8.866222e+01	3.802475e+02	TP53
+GO_Biological_Process_2021	positive regulation of nucleocytoplasmic transport (GO:0046824)	1/46	1.372248e-02	2.476012e-02	0	0	8.866222e+01	3.802475e+02	TP53
+GO_Biological_Process_2021	regulation of telomerase activity (GO:0051972)	1/46	1.372248e-02	2.476012e-02	0	0	8.866222e+01	3.802475e+02	TP53
+GO_Biological_Process_2021	negative regulation of cold-induced thermogenesis (GO:0120163)	1/47	1.401904e-02	2.502323e-02	0	0	8.673043e+01	3.701082e+02	RB1
+GO_Biological_Process_2021	polyol metabolic process (GO:0019751)	1/47	1.401904e-02	2.502323e-02	0	0	8.673043e+01	3.701082e+02	PTEN
+GO_Biological_Process_2021	cellular response to ionizing radiation (GO:0071479)	1/48	1.431553e-02	2.528061e-02	0	0	8.488085e+01	3.604389e+02	TP53
+GO_Biological_Process_2021	inositol phosphate metabolic process (GO:0043647)	1/48	1.431553e-02	2.528061e-02	0	0	8.488085e+01	3.604389e+02	PTEN
+GO_Biological_Process_2021	negative regulation of cell projection organization (GO:0031345)	1/49	1.461194e-02	2.553245e-02	0	0	8.310833e+01	3.512088e+02	PTEN
+GO_Biological_Process_2021	positive regulation of reactive oxygen species metabolic process (GO:2000379)	1/49	1.461194e-02	2.553245e-02	0	0	8.310833e+01	3.512088e+02	TP53
+GO_Biological_Process_2021	negative regulation of ERK1 and ERK2 cascade (GO:0070373)	1/50	1.490828e-02	2.591388e-02	0	0	8.140816e+01	3.423896e+02	PTEN
+GO_Biological_Process_2021	intrinsic apoptotic signaling pathway in response to DNA damage (GO:0008630)	1/51	1.520455e-02	2.602016e-02	0	0	7.977600e+01	3.339551e+02	TP53
+GO_Biological_Process_2021	negative regulation of transport (GO:0051051)	1/51	1.520455e-02	2.602016e-02	0	0	7.977600e+01	3.339551e+02	PTEN
+GO_Biological_Process_2021	regulation of axonogenesis (GO:0050770)	1/51	1.520455e-02	2.602016e-02	0	0	7.977600e+01	3.339551e+02	PTEN
+GO_Biological_Process_2021	signal transduction in response to DNA damage (GO:0042770)	1/52	1.550074e-02	2.625636e-02	0	0	7.820784e+01	3.258817e+02	TP53
+GO_Biological_Process_2021	regulation of intrinsic apoptotic signaling pathway (GO:2001242)	1/52	1.550074e-02	2.625636e-02	0	0	7.820784e+01	3.258817e+02	TP53
+GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	2/684	1.598633e-02	2.694142e-02	0	0	1.415836e+01	5.855927e+01	RB1;TP53
+GO_Biological_Process_2021	regulation of focal adhesion assembly (GO:0051893)	1/54	1.609291e-02	2.698407e-02	0	0	7.524906e+01	3.107317e+02	PTEN
+GO_Biological_Process_2021	positive regulation of establishment of protein localization to mitochondrion (GO:1903749)	1/56	1.668477e-02	2.755893e-02	0	0	7.250545e+01	2.967836e+02	TP53
+GO_Biological_Process_2021	negative regulation of metabolic process (GO:0009892)	1/56	1.668477e-02	2.755893e-02	0	0	7.250545e+01	2.967836e+02	RB1
+GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest (GO:0006977)	1/56	1.668477e-02	2.755893e-02	0	0	7.250545e+01	2.967836e+02	TP53
+GO_Biological_Process_2021	regulation of reactive oxygen species metabolic process (GO:2000377)	1/57	1.698059e-02	2.777122e-02	0	0	7.120714e+01	2.902178e+02	TP53
+GO_Biological_Process_2021	cellular response to peptide (GO:1901653)	1/57	1.698059e-02	2.777122e-02	0	0	7.120714e+01	2.902178e+02	TP53
+GO_Biological_Process_2021	negative regulation of neuron projection development (GO:0010977)	1/58	1.727634e-02	2.784342e-02	0	0	6.995439e+01	2.839041e+02	PTEN
+GO_Biological_Process_2021	positive regulation of mitochondrion organization (GO:0010822)	1/58	1.727634e-02	2.784342e-02	0	0	6.995439e+01	2.839041e+02	TP53
+GO_Biological_Process_2021	positive regulation of mitotic cell cycle phase transition (GO:1901992)	1/58	1.727634e-02	2.784342e-02	0	0	6.995439e+01	2.839041e+02	RB1
+GO_Biological_Process_2021	positive regulation of apoptotic signaling pathway (GO:2001235)	1/59	1.757201e-02	2.804764e-02	0	0	6.874483e+01	2.778286e+02	TP53
+GO_Biological_Process_2021	mitotic DNA damage checkpoint signaling (GO:0044773)	1/59	1.757201e-02	2.804764e-02	0	0	6.874483e+01	2.778286e+02	TP53
+GO_Biological_Process_2021	negative regulation of kinase activity (GO:0033673)	1/62	1.845859e-02	2.932178e-02	0	0	6.535410e+01	2.609083e+02	RB1
+GO_Biological_Process_2021	cell cycle G1/S phase transition (GO:0044843)	1/63	1.875397e-02	2.964913e-02	0	0	6.429677e+01	2.556665e+02	RB1
+GO_Biological_Process_2021	mitotic G1 DNA damage checkpoint signaling (GO:0031571)	1/65	1.934450e-02	3.043779e-02	0	0	6.228125e+01	2.457212e+02	TP53
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	2/764	1.973276e-02	3.090225e-02	0	0	1.261942e+01	4.953723e+01	PTEN;TP53
+GO_Biological_Process_2021	canonical Wnt signaling pathway (GO:0060070)	1/68	2.022974e-02	3.153180e-02	0	0	5.948358e+01	2.320218e+02	PTEN
+GO_Biological_Process_2021	synapse assembly (GO:0007416)	1/69	2.052467e-02	3.169391e-02	0	0	5.860588e+01	2.277499e+02	PTEN
+GO_Biological_Process_2021	cellular response to decreased oxygen levels (GO:0036294)	1/69	2.052467e-02	3.169391e-02	0	0	5.860588e+01	2.277499e+02	TP53
+GO_Biological_Process_2021	cellular response to light stimulus (GO:0071482)	1/70	2.081953e-02	3.200039e-02	0	0	5.775362e+01	2.236142e+02	TP53
+GO_Biological_Process_2021	phosphatidylinositol-mediated signaling (GO:0048015)	1/71	2.111432e-02	3.230393e-02	0	0	5.692571e+01	2.196082e+02	PTEN
+GO_Biological_Process_2021	response to ionizing radiation (GO:0010212)	1/72	2.140903e-02	3.245569e-02	0	0	5.612113e+01	2.157264e+02	TP53
+GO_Biological_Process_2021	cell morphogenesis involved in differentiation (GO:0000904)	1/72	2.140903e-02	3.245569e-02	0	0	5.612113e+01	2.157264e+02	RB1
+GO_Biological_Process_2021	chromatin assembly (GO:0031497)	1/73	2.170366e-02	3.262731e-02	0	0	5.533889e+01	2.119631e+02	TP53
+GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	3/2244	2.171878e-02	3.262731e-02	0	0	7.921910e+00	3.033757e+01	RB1;LBX1;TP53
+GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator (GO:0030330)	1/74	2.199823e-02	3.289825e-02	0	0	5.457808e+01	2.083133e+02	TP53
+GO_Biological_Process_2021	cell morphogenesis involved in neuron differentiation (GO:0048667)	1/76	2.258713e-02	3.347735e-02	0	0	5.311733e+01	2.013346e+02	RB1
+GO_Biological_Process_2021	regulation of epithelial to mesenchymal transition (GO:0010717)	1/76	2.258713e-02	3.347735e-02	0	0	5.311733e+01	2.013346e+02	PTEN
+GO_Biological_Process_2021	cellular response to UV (GO:0034644)	1/77	2.288147e-02	3.376288e-02	0	0	5.241579e+01	1.979969e+02	TP53
+GO_Biological_Process_2021	negative regulation of apoptotic signaling pathway (GO:2001234)	1/78	2.317574e-02	3.404577e-02	0	0	5.173247e+01	1.947546e+02	RB1
+GO_Biological_Process_2021	positive regulation of ubiquitin-dependent protein catabolic process (GO:2000060)	1/79	2.346993e-02	3.432607e-02	0	0	5.106667e+01	1.916039e+02	PTEN
+GO_Biological_Process_2021	negative regulation of protein modification process (GO:0031400)	1/81	2.405810e-02	3.503197e-02	0	0	4.978500e+01	1.855628e+02	PTEN
+GO_Biological_Process_2021	regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0000079)	1/82	2.435207e-02	3.530518e-02	0	0	4.916790e+01	1.826656e+02	PTEN
+GO_Biological_Process_2021	anaphase-promoting complex-dependent catabolic process (GO:0031145)	1/84	2.493979e-02	3.595509e-02	0	0	4.797831e+01	1.771019e+02	RB1
+GO_Biological_Process_2021	negative regulation of defense response (GO:0031348)	1/85	2.523354e-02	3.595509e-02	0	0	4.740476e+01	1.744297e+02	RB1
+GO_Biological_Process_2021	G1/S transition of mitotic cell cycle (GO:0000082)	1/85	2.523354e-02	3.595509e-02	0	0	4.740476e+01	1.744297e+02	RB1
+GO_Biological_Process_2021	regulation of cell cycle G2/M phase transition (GO:1902749)	1/85	2.523354e-02	3.595509e-02	0	0	4.740476e+01	1.744297e+02	TP53
+GO_Biological_Process_2021	negative regulation of phosphorylation (GO:0042326)	1/86	2.552722e-02	3.621811e-02	0	0	4.684471e+01	1.718268e+02	PTEN
+GO_Biological_Process_2021	regulation of transcription from RNA polymerase II promoter in response to stress (GO:0043618)	1/87	2.582082e-02	3.647878e-02	0	0	4.629767e+01	1.692909e+02	TP53
+GO_Biological_Process_2021	negative regulation of protein kinase activity (GO:0006469)	1/90	2.670119e-02	3.756269e-02	0	0	4.473034e+01	1.620601e+02	RB1
+GO_Biological_Process_2021	positive regulation of supramolecular fiber organization (GO:1902905)	1/91	2.699450e-02	3.781508e-02	0	0	4.423111e+01	1.597682e+02	RB1
+GO_Biological_Process_2021	Wnt signaling pathway (GO:0016055)	1/92	2.728773e-02	3.790597e-02	0	0	4.374286e+01	1.575319e+02	PTEN
+GO_Biological_Process_2021	regulation of peptidyl-tyrosine phosphorylation (GO:0050730)	1/92	2.728773e-02	3.790597e-02	0	0	4.374286e+01	1.575319e+02	TP53
+GO_Biological_Process_2021	regulation of kinase activity (GO:0043549)	1/94	2.787398e-02	3.824034e-02	0	0	4.279785e+01	1.532189e+02	RB1
+GO_Biological_Process_2021	hemopoiesis (GO:0030097)	1/94	2.787398e-02	3.824034e-02	0	0	4.279785e+01	1.532189e+02	TP53
+GO_Biological_Process_2021	negative regulation of MAPK cascade (GO:0043409)	1/94	2.787398e-02	3.824034e-02	0	0	4.279785e+01	1.532189e+02	PTEN
+GO_Biological_Process_2021	regulation of cell cycle phase transition (GO:1901987)	1/95	2.816700e-02	3.832559e-02	0	0	4.234043e+01	1.511386e+02	TP53
+GO_Biological_Process_2021	mRNA metabolic process (GO:0016071)	1/95	2.816700e-02	3.832559e-02	0	0	4.234043e+01	1.511386e+02	TP53
+GO_Biological_Process_2021	regulation of peptidyl-serine phosphorylation (GO:0033135)	1/98	2.904560e-02	3.935975e-02	0	0	4.102474e+01	1.451820e+02	PTEN
+GO_Biological_Process_2021	response to UV (GO:0009411)	1/99	2.933832e-02	3.959480e-02	0	0	4.060408e+01	1.432862e+02	TP53
+GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	2/948	2.964046e-02	3.984062e-02	0	0	1.006765e+01	3.542419e+01	RB1;TP53
+GO_Biological_Process_2021	positive regulation of protein localization to membrane (GO:1905477)	1/101	2.992354e-02	3.996703e-02	0	0	3.978800e+01	1.396205e+02	TP53
+GO_Biological_Process_2021	intrinsic apoptotic signaling pathway (GO:0097193)	1/102	3.021604e-02	3.996703e-02	0	0	3.939208e+01	1.378480e+02	TP53
+GO_Biological_Process_2021	mitotic sister chromatid segregation (GO:0000070)	1/102	3.021604e-02	3.996703e-02	0	0	3.939208e+01	1.378480e+02	RB1
+GO_Biological_Process_2021	cell junction assembly (GO:0034329)	1/102	3.021604e-02	3.996703e-02	0	0	3.939208e+01	1.378480e+02	PTEN
+GO_Biological_Process_2021	chromatin remodeling (GO:0006338)	1/103	3.050846e-02	4.019369e-02	0	0	3.900392e+01	1.361140e+02	RB1
+GO_Biological_Process_2021	positive regulation of cellular metabolic process (GO:0031325)	1/105	3.109309e-02	4.064136e-02	0	0	3.825000e+01	1.327569e+02	TP53
+GO_Biological_Process_2021	nucleotide-excision repair (GO:0006289)	1/105	3.109309e-02	4.064136e-02	0	0	3.825000e+01	1.327569e+02	TP53
+GO_Biological_Process_2021	regulation of phosphatidylinositol 3-kinase signaling (GO:0014066)	1/106	3.138530e-02	4.086243e-02	0	0	3.788381e+01	1.311316e+02	PTEN
+GO_Biological_Process_2021	modulation of chemical synaptic transmission (GO:0050804)	1/109	3.226147e-02	4.183910e-02	0	0	3.682593e+01	1.264559e+02	PTEN
+GO_Biological_Process_2021	response to endoplasmic reticulum stress (GO:0034976)	1/110	3.255338e-02	4.189040e-02	0	0	3.648624e+01	1.249608e+02	TP53
+GO_Biological_Process_2021	regulation of protein kinase activity (GO:0045859)	1/110	3.255338e-02	4.189040e-02	0	0	3.648624e+01	1.249608e+02	RB1
+GO_Biological_Process_2021	regulation of protein serine/threonine kinase activity (GO:0071900)	1/111	3.284522e-02	4.210276e-02	0	0	3.615273e+01	1.234959e+02	RB1
+GO_Biological_Process_2021	protein-containing complex subunit organization (GO:0043933)	1/112	3.313699e-02	4.215126e-02	0	0	3.582523e+01	1.220603e+02	TP53
+GO_Biological_Process_2021	phosphatidylinositol metabolic process (GO:0046488)	1/112	3.313699e-02	4.215126e-02	0	0	3.582523e+01	1.220603e+02	PTEN
+GO_Biological_Process_2021	negative regulation of cell motility (GO:2000146)	1/114	3.372030e-02	4.256707e-02	0	0	3.518761e+01	1.192739e+02	PTEN
+GO_Biological_Process_2021	positive regulation of cellular component organization (GO:0051130)	1/114	3.372030e-02	4.256707e-02	0	0	3.518761e+01	1.192739e+02	RB1
+GO_Biological_Process_2021	regulation of protein-containing complex assembly (GO:0043254)	1/116	3.430331e-02	4.297623e-02	0	0	3.457217e+01	1.165951e+02	RB1
+GO_Biological_Process_2021	tumor necrosis factor-mediated signaling pathway (GO:0033209)	1/116	3.430331e-02	4.297623e-02	0	0	3.457217e+01	1.165951e+02	TP53
+GO_Biological_Process_2021	positive regulation of protein-containing complex assembly (GO:0031334)	1/118	3.488604e-02	4.354197e-02	0	0	3.397778e+01	1.140182e+02	TP53
+GO_Biological_Process_2021	cellular response to oxidative stress (GO:0034599)	1/125	3.692326e-02	4.575944e-02	0	0	3.204839e+01	1.057249e+02	TP53
+GO_Biological_Process_2021	synapse organization (GO:0050808)	1/126	3.721400e-02	4.575944e-02	0	0	3.179040e+01	1.046244e+02	PTEN
+GO_Biological_Process_2021	circulatory system development (GO:0072359)	1/126	3.721400e-02	4.575944e-02	0	0	3.179040e+01	1.046244e+02	PTEN
+GO_Biological_Process_2021	phosphatidylinositol biosynthetic process (GO:0006661)	1/126	3.721400e-02	4.575944e-02	0	0	3.179040e+01	1.046244e+02	PTEN
+GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	2/1079	3.772442e-02	4.613245e-02	0	0	8.782266e+00	2.878342e+01	RB1;TP53
+GO_Biological_Process_2021	plasma membrane bounded cell projection organization (GO:0120036)	1/128	3.779526e-02	4.613245e-02	0	0	3.128661e+01	1.024815e+02	RB1
+GO_Biological_Process_2021	cellular response to hypoxia (GO:0071456)	1/131	3.866660e-02	4.702312e-02	0	0	3.056000e+01	9.940493e+01	TP53
+GO_Biological_Process_2021	positive regulation of peptidyl-tyrosine phosphorylation (GO:0050731)	1/134	3.953728e-02	4.790649e-02	0	0	2.986617e+01	9.648298e+01	TP53
+GO_Biological_Process_2021	protein dephosphorylation (GO:0006470)	1/139	4.098696e-02	4.948244e-02	0	0	2.877681e+01	9.192756e+01	PTEN
+GO_Biological_Process_2021	neuron projection morphogenesis (GO:0048812)	1/140	4.127668e-02	4.965165e-02	0	0	2.856835e+01	9.106039e+01	PTEN
+GO_Biological_Process_2021	chromatin organization (GO:0006325)	1/142	4.185589e-02	5.015150e-02	0	0	2.816028e+01	8.936730e+01	RB1
+GO_Biological_Process_2021	neuron development (GO:0048666)	1/143	4.214539e-02	5.015150e-02	0	0	2.796056e+01	8.854076e+01	RB1
+GO_Biological_Process_2021	negative regulation of DNA-binding transcription factor activity (GO:0043433)	1/143	4.214539e-02	5.015150e-02	0	0	2.796056e+01	8.854076e+01	RB1
+GO_Biological_Process_2021	negative regulation of cell migration (GO:0030336)	1/144	4.243481e-02	5.031557e-02	0	0	2.776364e+01	8.772715e+01	PTEN
+GO_Biological_Process_2021	positive regulation of intracellular protein transport (GO:0090316)	1/148	4.359179e-02	5.150346e-02	0	0	2.700272e+01	8.459646e+01	TP53
+GO_Biological_Process_2021	brain development (GO:0007420)	1/150	4.416983e-02	5.200137e-02	0	0	2.663758e+01	8.310162e+01	PTEN
+GO_Biological_Process_2021	dephosphorylation (GO:0016311)	1/153	4.503636e-02	5.283418e-02	0	0	2.610789e+01	8.094192e+01	PTEN
+GO_Biological_Process_2021	regulation of signal transduction by p53 class mediator (GO:1901796)	1/156	4.590223e-02	5.366036e-02	0	0	2.559871e+01	7.887581e+01	TP53
+GO_Biological_Process_2021	cellular response to starvation (GO:0009267)	1/158	4.647912e-02	5.414410e-02	0	0	2.527006e+01	7.754756e+01	TP53
+GO_Biological_Process_2021	heart development (GO:0007507)	1/164	4.820803e-02	5.596177e-02	0	0	2.433252e+01	7.378178e+01	PTEN
+GO_Biological_Process_2021	regulation of neuron projection development (GO:0010975)	1/165	4.849593e-02	5.609982e-02	0	0	2.418293e+01	7.318420e+01	PTEN
+GO_Biological_Process_2021	cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742)	1/170	4.993433e-02	5.756318e-02	0	0	2.346154e+01	7.031532e+01	CEACAM8
+GO_Biological_Process_2021	glycerophospholipid biosynthetic process (GO:0046474)	1/177	5.194504e-02	5.967389e-02	0	0	2.252045e+01	6.660580e+01	PTEN
+GO_Biological_Process_2021	regulation of mitotic cell cycle (GO:0007346)	1/178	5.223200e-02	5.979663e-02	0	0	2.239209e+01	6.610279e+01	RB1
+GO_Biological_Process_2021	protein stabilization (GO:0050821)	1/179	5.251888e-02	5.991845e-02	0	0	2.226517e+01	6.560616e+01	PTEN
+GO_Biological_Process_2021	cellular response to tumor necrosis factor (GO:0071356)	1/194	5.681345e-02	6.415669e-02	0	0	2.051917e+01	5.884862e+01	TP53
+GO_Biological_Process_2021	negative regulation of macromolecule metabolic process (GO:0010605)	1/194	5.681345e-02	6.415669e-02	0	0	2.051917e+01	5.884862e+01	RB1
+GO_Biological_Process_2021	regulation of programmed cell death (GO:0043067)	1/194	5.681345e-02	6.415669e-02	0	0	2.051917e+01	5.884862e+01	TP53
+GO_Biological_Process_2021	negative regulation of intracellular signal transduction (GO:1902532)	1/198	5.795593e-02	6.522497e-02	0	0	2.009848e+01	5.724192e+01	PTEN
+GO_Biological_Process_2021	regulation of inflammatory response (GO:0050727)	1/206	6.023742e-02	6.756359e-02	0	0	1.930634e+01	5.424042e+01	RB1
+GO_Biological_Process_2021	regulation of protein kinase B signaling (GO:0051896)	1/207	6.052228e-02	6.765453e-02	0	0	1.921165e+01	5.388376e+01	PTEN
+GO_Biological_Process_2021	mitotic cell cycle phase transition (GO:0044772)	1/209	6.109179e-02	6.806199e-02	0	0	1.902500e+01	5.318206e+01	RB1
+GO_Biological_Process_2021	negative regulation of inflammatory response (GO:0050728)	1/212	6.194551e-02	6.855303e-02	0	0	1.875166e+01	5.215774e+01	RB1
+GO_Biological_Process_2021	phosphate-containing compound metabolic process (GO:0006796)	1/212	6.194551e-02	6.855303e-02	0	0	1.875166e+01	5.215774e+01	PTEN
+GO_Biological_Process_2021	transcription, DNA-templated (GO:0006351)	1/221	6.450280e-02	7.114595e-02	0	0	1.797636e+01	4.927405e+01	TP53
+GO_Biological_Process_2021	regulation of ERK1 and ERK2 cascade (GO:0070372)	1/238	6.931739e-02	7.620322e-02	0	0	1.667257e+01	4.450009e+01	PTEN
+GO_Biological_Process_2021	axonogenesis (GO:0007409)	1/240	6.988245e-02	7.657087e-02	0	0	1.653138e+01	4.398902e+01	PTEN
+GO_Biological_Process_2021	positive regulation of DNA-binding transcription factor activity (GO:0051091)	1/246	7.157592e-02	7.816844e-02	0	0	1.612163e+01	4.251269e+01	PTEN
+GO_Biological_Process_2021	positive regulation of signal transduction (GO:0009967)	1/252	7.326682e-02	7.975274e-02	0	0	1.573147e+01	4.111653e+01	PTEN
+GO_Biological_Process_2021	cellular component assembly (GO:0022607)	1/261	7.579836e-02	8.223875e-02	0	0	1.518000e+01	3.915952e+01	TP53
+GO_Biological_Process_2021	regulation of protein phosphorylation (GO:0001932)	1/266	7.720228e-02	8.348911e-02	0	0	1.488981e+01	3.813766e+01	PTEN
+GO_Biological_Process_2021	protein-containing complex assembly (GO:0065003)	1/267	7.748285e-02	8.352048e-02	0	0	1.483308e+01	3.793856e+01	TP53
+GO_Biological_Process_2021	central nervous system development (GO:0007417)	1/268	7.776335e-02	8.355156e-02	0	0	1.477678e+01	3.774115e+01	PTEN
+GO_Biological_Process_2021	positive regulation of programmed cell death (GO:0043068)	1/286	8.280020e-02	8.867634e-02	0	0	1.383088e+01	3.445721e+01	TP53
+GO_Biological_Process_2021	DNA repair (GO:0006281)	1/298	8.614535e-02	9.196223e-02	0	0	1.326397e+01	3.251954e+01	TP53
+GO_Biological_Process_2021	chemical synaptic transmission (GO:0007268)	1/306	8.836979e-02	9.403452e-02	0	0	1.291082e+01	3.132455e+01	PTEN
+GO_Biological_Process_2021	positive regulation of apoptotic process (GO:0043065)	1/310	8.948032e-02	9.491203e-02	0	0	1.274110e+01	3.075366e+01	TP53
+GO_Biological_Process_2021	proteasome-mediated ubiquitin-dependent protein catabolic process (GO:0043161)	1/321	9.252846e-02	9.781368e-02	0	0	1.229625e+01	2.926801e+01	RB1
+GO_Biological_Process_2021	negative regulation of gene expression (GO:0010629)	1/322	9.280514e-02	9.781368e-02	0	0	1.225732e+01	2.913876e+01	RB1
+GO_Biological_Process_2021	cellular response to DNA damage stimulus (GO:0006974)	1/350	1.005237e-01	1.056136e-01	0	0	1.125788e+01	2.586342e+01	TP53
+GO_Biological_Process_2021	positive regulation of protein phosphorylation (GO:0001934)	1/371	1.062767e-01	1.113056e-01	0	0	1.060757e+01	2.377908e+01	TP53
+GO_Biological_Process_2021	negative regulation of programmed cell death (GO:0043069)	1/381	1.090054e-01	1.138044e-01	0	0	1.032316e+01	2.287981e+01	TP53
+GO_Biological_Process_2021	positive regulation of macromolecule metabolic process (GO:0010604)	1/384	1.098227e-01	1.142982e-01	0	0	1.024073e+01	2.262063e+01	TP53
+GO_Biological_Process_2021	regulation of cell migration (GO:0030334)	1/408	1.163383e-01	1.207010e-01	0	0	9.625061e+00	2.070594e+01	PTEN
+GO_Biological_Process_2021	nervous system development (GO:0007399)	1/447	1.268414e-01	1.311880e-01	0	0	8.765919e+00	1.810003e+01	PTEN
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	1/474	1.340516e-01	1.382147e-01	0	0	8.254123e+00	1.658691e+01	PTEN
+GO_Biological_Process_2021	positive regulation of gene expression (GO:0010628)	1/482	1.361784e-01	1.395409e-01	0	0	8.113514e+00	1.617664e+01	TP53
+GO_Biological_Process_2021	cellular response to cytokine stimulus (GO:0071345)	1/482	1.361784e-01	1.395409e-01	0	0	8.113514e+00	1.617664e+01	TP53
+GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	1/511	1.438517e-01	1.469500e-01	0	0	7.640784e+00	1.481527e+01	TP53
+GO_Biological_Process_2021	positive regulation of intracellular signal transduction (GO:1902533)	1/546	1.530368e-01	1.558534e-01	0	0	7.137248e+00	1.339716e+01	TP53
+GO_Biological_Process_2021	cytokine-mediated signaling pathway (GO:0019221)	1/621	1.724429e-01	1.750796e-01	0	0	6.249677e+00	1.098499e+01	TP53
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	1/625	1.734674e-01	1.755829e-01	0	0	6.208333e+00	1.087554e+01	PTEN
+GO_Biological_Process_2021	regulation of apoptotic process (GO:0042981)	1/742	2.029698e-01	2.048206e-01	0	0	5.196491e+00	8.286835e+00	TP53
+GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	1/908	2.433181e-01	2.447928e-01	0	0	4.208820e+00	5.948686e+00	TP53
+GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	1/1025	2.707215e-01	2.715394e-01	0	0	3.705078e+00	4.841295e+00	PTEN
+GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	1/1183	3.064111e-01	3.064111e-01	0	0	3.183080e+00	3.765035e+00	TP53

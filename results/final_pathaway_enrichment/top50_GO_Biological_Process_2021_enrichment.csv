@@ -1,0 +1,51 @@
+Term,Adjusted P-value,Overlap,P-value,Combined Score
+negative regulation of cell cycle G1/S phase transition (GO:1902807),0.0082531,2/35,4.442907e-05,3030.932
+negative regulation of G1/S transition of mitotic cell cycle (GO:2000134),0.0082531,2/37,4.971747e-05,2825.383
+"regulation of DNA-templated transcription, initiation (GO:2000142)",0.01112435,2/61,0.0001361753,1503.837
+regulation of transcription initiation from RNA polymerase II promoter (GO:0060260),0.01112435,2/64,0.0001499561,1415.36
+regulation of G1/S transition of mitotic cell cycle (GO:2000045),0.01112435,2/71,0.0001846694,1241.262
+negative regulation of protein serine/threonine kinase activity (GO:0071901),0.01112435,2/78,0.0002229557,1101.85
+negative regulation of cell cycle (GO:0045786),0.01112435,2/80,0.0002345494,1067.018
+negative regulation of mitotic cell cycle phase transition (GO:1901991),0.01287358,2/92,0.0003102068,893.2773
+small GTPase mediated signal transduction (GO:0007264),0.01404455,2/106,0.0004116288,745.434
+negative regulation of cellular process (GO:0048523),0.01404455,3/566,0.0004230286,268.1019
+negative regulation of response to external stimulus (GO:0032102),0.01483631,2/118,0.0005097797,649.5935
+negative regulation of cell growth (GO:0030308),0.01483631,2/126,0.0005809398,596.9704
+negative regulation of growth (GO:0045926),0.01483631,2/126,0.0005809398,596.9704
+regulation of collagen fibril organization (GO:1904026),0.01591386,1/6,0.001798841,5053.709
+negative regulation of cell cycle phase transition (GO:1901988),0.01591386,1/7,0.002098387,4108.591
+regulation of transcription by RNA polymerase II (GO:0006357),0.01591386,4/2206,0.001842455,101.7531
+positive regulation of RNA polymerase II transcription preinitiation complex assembly (GO:0045899),0.01591386,1/7,0.002098387,4108.591
+ER overload response (GO:0006983),0.01591386,1/8,0.002397859,3445.29
+excitatory synapse assembly (GO:1904861),0.01591386,1/8,0.002397859,3445.29
+stress-induced premature senescence (GO:0090400),0.01591386,1/8,0.002397859,3445.29
+"regulation of wound healing, spreading of epidermal cells (GO:1903689)",0.01591386,1/8,0.002397859,3445.29
+positive regulation of execution phase of apoptosis (GO:1900119),0.01591386,1/8,0.002397859,3445.29
+postsynaptic density organization (GO:0097106),0.01591386,1/8,0.002397859,3445.29
+regulation of protein localization to chromatin (GO:1905634),0.01591386,1/8,0.002397859,3445.29
+negative regulation of signal transduction (GO:0009968),0.01591386,2/267,0.002570683,221.9916
+protein deubiquitination (GO:0016579),0.01591386,2/267,0.002570683,221.9916
+regulation of helicase activity (GO:0051095),0.01591386,1/9,0.002697256,2955.69
+protein modification by small protein removal (GO:0070646),0.01591386,2/276,0.002743932,212.255
+regulation of RNA polymerase II transcription preinitiation complex assembly (GO:0045898),0.01591386,1/10,0.002996578,2580.412
+negative regulation of telomerase activity (GO:0051974),0.01591386,1/10,0.002996578,2580.412
+regulation of tau-protein kinase activity (GO:1902947),0.01591386,1/10,0.002996578,2580.412
+negative regulation of dendritic spine development (GO:0061000),0.01591386,1/7,0.002098387,4108.591
+hematopoietic stem cell differentiation (GO:0060218),0.01591386,1/10,0.002996578,2580.412
+"DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator (GO:0006978)",0.01591386,1/10,0.002996578,2580.412
+presynaptic membrane assembly (GO:0097105),0.01591386,1/10,0.002996578,2580.412
+regulation of organ growth (GO:0046620),0.01591386,1/10,0.002996578,2580.412
+negative regulation of phosphatidylinositol 3-kinase signaling (GO:0014067),0.01591386,1/10,0.002996578,2580.412
+myelin maintenance (GO:0043217),0.01591386,1/10,0.002996578,2580.412
+regulation of cell cycle (GO:0051726),0.01591386,2/296,0.003148332,193.0092
+positive regulation of production of miRNAs involved in gene silencing by miRNA (GO:1903800),0.01591386,1/11,0.003295826,2284.211
+central nervous system myelination (GO:0022010),0.01591386,1/11,0.003295826,2284.211
+regulation of lipid kinase activity (GO:0043550),0.01591386,1/11,0.003295826,2284.211
+positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress (GO:1990440),0.01591386,1/11,0.003295826,2284.211
+"DNA damage response, signal transduction resulting in transcription (GO:0042772)",0.01591386,1/11,0.003295826,2284.211
+presynaptic membrane organization (GO:0097090),0.01591386,1/11,0.003295826,2284.211
+phosphorylated carbohydrate dephosphorylation (GO:0046838),0.01591386,1/11,0.003295826,2284.211
+inositol phosphate dephosphorylation (GO:0046855),0.01591386,1/11,0.003295826,2284.211
+regulation of sister chromatid cohesion (GO:0007063),0.01591386,1/12,0.003594998,2044.883
+chromatin assembly or disassembly (GO:0006333),0.01591386,1/12,0.003594998,2044.883
+regulation of keratinocyte migration (GO:0051547),0.01591386,1/12,0.003594998,2044.883

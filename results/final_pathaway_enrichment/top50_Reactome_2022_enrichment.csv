@@ -1,0 +1,51 @@
+Term,Adjusted P-value,Overlap,P-value,Combined Score
+Formation Of Senescence-Associated Heterochromatin Foci (SAHF) R-HSA-2559584,0.001526922,2/17,1.017948e-05,7655.378
+Oncogene Induced Senescence R-HSA-2559585,0.002765079,2/33,3.943661e-05,3265.179
+Ovarian Tumor Domain Proteases R-HSA-5689896,0.002765079,2/39,5.530158e-05,2643.685
+Regulation Of PTEN Gene Transcription R-HSA-8943724,0.00408526,2/61,0.0001361753,1503.837
+DNA Damage/Telomere Stress Induced Senescence R-HSA-2559586,0.00408526,2/61,0.0001361753,1503.837
+Generic Transcription Pathway R-HSA-212436,0.004244646,4/1190,0.0001697858,275.3318
+TP53 Regulates Metabolic Genes R-HSA-5628897,0.004658044,2/81,0.0002404553,1050.324
+RNA Polymerase II Transcription R-HSA-73857,0.004658044,4/1312,0.000248429,237.1566
+Gene Expression (Transcription) R-HSA-74160,0.006091905,4/1449,0.0003655143,203.1842
+PTEN Regulation R-HSA-6807070,0.01059452,2/139,0.0007063015,525.8096
+Cellular Senescence R-HSA-2559583,0.01353983,2/165,0.0009929206,420.6398
+Immune System R-HSA-168256,0.01405519,4/1943,0.001134041,126.3006
+Ub-specific Processing Proteases R-HSA-5689880,0.01405519,2/201,0.001467983,324.4722
+Activation Of NOXA And Translocation To Mitochondria R-HSA-111448,0.01405519,1/5,0.00149922,6499.559
+SARS-CoV-1 Genome Replication And Transcription R-HSA-9679514,0.01405519,1/5,0.00149922,6499.559
+SARS-CoV-2 Genome Replication And Transcription R-HSA-9694682,0.01405519,1/5,0.00149922,6499.559
+Fibronectin Matrix Formation R-HSA-1566977,0.01587213,1/6,0.001798841,5053.709
+RUNX3 Regulates CDKN1A Transcription R-HSA-8941855,0.01748656,1/7,0.002098387,4108.591
+Innate Immune System R-HSA-168249,0.01751806,3/1035,0.002456216,110.412
+PIP3 Activates AKT Signaling R-HSA-1257604,0.01751806,2/268,0.002589664,220.873
+Regulation Of PTEN Localization R-HSA-8948747,0.01751806,1/9,0.002697256,2955.69
+PI5P Regulates TP53 Acetylation R-HSA-6811555,0.01751806,1/9,0.002697256,2955.69
+Activation Of PUMA And Translocation To Mitochondria R-HSA-139915,0.01751806,1/9,0.002697256,2955.69
+Deubiquitination R-HSA-5688426,0.01751806,2/279,0.002802889,209.1676
+Regulation Of PTEN mRNA Translation R-HSA-8943723,0.01925892,1/11,0.003295826,2284.211
+Intracellular Signaling By Second Messengers R-HSA-9006925,0.01925892,2/306,0.003360512,184.4533
+TP53 Regulates Transcription Of Caspase Activators And Caspases R-HSA-6803207,0.01925892,1/12,0.003594998,2044.883
+TP53 Regulates Transcription Of Death Receptors And Ligands R-HSA-6803211,0.01925892,1/12,0.003594998,2044.883
+Inhibition Of Replication Initiation Of Damaged DNA By RB1/E2F1 R-HSA-113501,0.01965525,1/13,0.003894096,1847.767
+Regulation Of TP53 Activity Thru Association With Co-factors R-HSA-6804759,0.01965525,1/14,0.00419312,1682.803
+TP53 Regulates Transcription Of Genes Involved In G1 Cell Cycle Arrest R-HSA-6804116,0.01965525,1/14,0.00419312,1682.803
+TP53 Regulates Transcription Of Additional Cell Death Genes With Uncertain Roles In P53-Dependent Apoptosis R-HSA-6803205,0.01965525,1/14,0.00419312,1682.803
+Transcriptional Regulation By TP53 R-HSA-3700989,0.02032082,2/354,0.004470581,150.9487
+Aberrant Regulation Of Mitotic G1/S Transition In Cancer Due To RB1 Defects R-HSA-9659787,0.02244634,1/17,0.005089741,1318.68
+Regulation Of NF-kappa B Signaling R-HSA-9758274,0.02244634,1/18,0.005388466,1227.644
+TP53 Regulates Transcription Of Genes Involved In G2 Cell Cycle Arrest R-HSA-6804114,0.02244634,1/18,0.005388466,1227.644
+Regulation Of TP53 Activity Thru Methylation R-HSA-6804760,0.02244634,1/19,0.005687116,1147.411
+SUMOylation Of Transcription Factors R-HSA-3232118,0.02244634,1/19,0.005687116,1147.411
+Aberrant Regulation Of Mitotic Exit In Cancer Due To RB1 Defects R-HSA-9687136,0.02244634,1/20,0.005985691,1076.207
+TP53 Regulates Transcription Of Genes Involved In Cytochrome C Release R-HSA-6803204,0.02244634,1/20,0.005985691,1076.207
+TP53 Regulates Transcription Of Additional Cell Cycle Genes With Uncertain Roles In P53 Pathway R-HSA-6804115,0.02299094,1/21,0.006284191,1012.625
+E2F Mediated Regulation Of DNA Replication R-HSA-113510,0.02350935,1/22,0.006582617,955.5317
+Defective Intrinsic Pathway For Apoptosis R-HSA-9734009,0.0244747,1/24,0.007179245,857.2875
+RUNX2 Regulates Osteoblast Differentiation R-HSA-8940973,0.0244747,1/24,0.007179245,857.2875
+Neutrophil Degranulation R-HSA-6798695,0.02481566,2/468,0.007700014,101.9674
+Synthesis Of IP3 And IP4 In Cytosol R-HSA-1855204,0.02481566,1/26,0.007775574,775.8784
+Pyroptosis R-HSA-5620971,0.02481566,1/26,0.007775574,775.8784
+"FOXO-mediated Transcription Of Oxidative Stress, Metabolic And Neuronal Genes R-HSA-9615017",0.02653931,1/29,0.008669509,677.1245
+Regulation Of TP53 Activity Thru Acetylation R-HSA-6804758,0.02653931,1/29,0.008669509,677.1245
+Activation Of BH3-only Proteins R-HSA-114452,0.02690201,1/30,0.008967338,649.092
