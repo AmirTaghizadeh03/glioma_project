@@ -1,2 +1,3 @@
-data/
-scripts/
+data/raw/ 
+data/processed/ 
+scripts/ 
