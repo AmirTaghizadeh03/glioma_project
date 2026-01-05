@@ -16,7 +16,7 @@
 
 
 
-⚠️ Note: Raw data, processed patient data, and scripts are not included in this repository to ensure privacy and sensitivity. Only figures and result tables are provided.
+⚠️ Note: Due to large file sizes, raw and processed data directories (data/raw and data/processed) are not included in this repository. All analysis scripts are provided to ensure reproducibility.
 
 
 
@@ -72,7 +72,7 @@
 
 **├─ data/**                     # NOT INCLUDED due to sensitivity
 
-**├─ scripts/**                  # NOT INCLUDED due to privacy reasons
+**├─ scripts/**                  # analysis scripts
 
 **└─ README.md**                 # This file
 
@@ -144,13 +144,12 @@ Install via pip:
 
 
 
-*Note: The scripts themselves are not included. This section is for reference if raw data were available.*
 
 
 
 Place raw TCGA data in data/raw/
 
-Run pipelines in order (if scripts were included):
+Run pipelines in order:
 
 
 
